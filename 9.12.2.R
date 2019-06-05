@@ -1,6 +1,3 @@
-# Filename: HW# 9 - Benitez P. 
-# Question: 12.2
-# Author: Patrick C. Benitez 
 # Date created: 10-MAR-19
 # Date updated: 10-MAR-19 
 
